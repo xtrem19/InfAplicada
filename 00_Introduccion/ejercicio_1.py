@@ -28,4 +28,4 @@ print(type('Hola mundo'))               #
 print(type(['Mar', 2, 5]))              # 
 print(type({'Nombre':'Tu nombre'}))     # 
 print(type({'Algo', 2.67, 9.5}))        # 
-print(type(('Lag', 6.8, 7.5, 9)))       # 
+print(type(('Lag', 6.8, 7.5, 9)))       # <class 'tuple'>
