@@ -27,5 +27,5 @@ print(type(2j + 2 + 3j + 5))            #
 print(type('Hola mundo'))               # 
 print(type(['Mar', 2, 5]))              # 
 print(type({'Nombre':'Tu nombre'}))     # 
-print(type({'Algo', 2.67, 9.5}))        # 
+print(type({'Algo', 2.67, 9.5}))        # <class 'set'>
 print(type(('Lag', 6.8, 7.5, 9)))       # <class 'tuple'>
